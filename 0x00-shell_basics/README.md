@@ -16,4 +16,4 @@ Here we will see the ***basics of Shell***
 > List Long Format And Hide Files And User-Group Numeric And CD Directory ***{ls -l / ls -la / ls -lan / mkdir /tmp/my_first_directory}***
 > Move File ***{mv /tmp/betty /tmp/my_first_directory}***
 > Delete file And Directory ***{rm /tmp/my_first_directory/betty / rmdir /tmp/my_first_directory}***
-> Magic File
+> Magic File**
