@@ -1,4 +1,4 @@
-# Here we will see ***the permissionsl of Shell***
+# Here we will see ***the permissions of Shell***
 
 > Switches The Current User ***{}***
 > Print The Effective Username ***{}***
