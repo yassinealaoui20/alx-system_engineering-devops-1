@@ -1,4 +1,4 @@
-# Here we will see the ***basics of Shell***
+Here we will see the ***basics of Shell***
 
 
 > Print Working Directory ***{pwd}***
